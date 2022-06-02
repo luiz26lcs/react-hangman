@@ -1,0 +1,64 @@
+body {
+    background-color: #FFD9C0;
+    text-align: center;
+}
+
+.game-word {
+    display: inline;
+    font-family: 'Bangers', cursive;
+    font-size: 5rem;
+    letter-spacing: 10px;
+    padding: 0 auto;
+}
+
+.man-img {
+    padding-top: 100px;
+    width: 200px;
+}
+
+.title {
+    font-family: 'Bangers', cursive;
+    font-size: 4rem;
+    font-weight: 700;
+    padding-top: 100px;
+}
+
+.input-area {
+    margin: 5% 0;
+}
+
+/* Buttons */
+
+.key-button {
+    border: 2px solid #000000;
+    border-radius: 8px;
+    display: inline;
+    font-family: 'Bangers', cursive;
+    font-size: 3rem;
+    margin: 5px;
+    padding: 0 10px;
+    width: 30px;
+}
+
+.key-button:hover {
+    opacity: 0.7;
+}
+
+.letter-button {
+    background-color: #B7E5DD;
+}
+
+.play-button {
+    width: 130px;
+}
+
+.play-button:hover {
+    opacity: 0.7;
+}
+
+.tip-button {
+    background-color: #F1F0C0;
+    margin-left: 30px;
+    margin-top: 30px;
+    position: absolute;
+}
